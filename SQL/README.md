@@ -8,5 +8,5 @@ This folder structure shows how I ingested the RAW data into SnowflakeDB and cre
 #### Metrics
 This folders strucuture shows which metrics have been created as a well as the subsequent analysis of the metrics.
 
-#### Tests
+#### Data Cleaning
 This folder strucuture shows the process I go through to clean and prep data before analysis.
