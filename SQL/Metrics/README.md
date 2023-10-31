@@ -1,4 +1,4 @@
 ## Metric List
 
-Sales Per Month
+Sales Per Month <br>
 Repeat Customer %
