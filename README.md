@@ -1,4 +1,7 @@
 ## Data Analysis for a Local Coffee Shop
+
+![Alt text](Coffee-cup.png)
+
 ### Overview
 
 We are embarking on a data analysis project for a small, local coffee shop. The objective is to unlock valuable insights from the shop's existing data, which includes information on products, customers, and orders. Despite having this data, the coffee shop has not previously leveraged it to understand business trends or inform strategic decisions. Our project aims to change that, helping the shop to make data-driven decisions to enhance their business operations and customer experience.
