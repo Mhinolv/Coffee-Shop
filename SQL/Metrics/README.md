@@ -1,4 +1,4 @@
 ## Metric List
 
-Sales Per Month <br>
-Repeat Customer %
+Sales Per Month w/ Rolling Average<br>
+Quantity per Order
