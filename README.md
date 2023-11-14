@@ -18,6 +18,7 @@ For data cleaning, transformation, and initial analysis. Python’s robust libra
 **SQL** 
 
 To query and manipulate data stored in databases. We’ll use SQL for tasks similar to Python, showcasing how both tools can achieve similar outcomes with different approaches.
+
 **Excel**
 
  For additional data manipulation and as an intermediary tool for non-technical stakeholders who are more comfortable with Excel.
@@ -28,7 +29,7 @@ To create an interactive dashboard that visualizes the insights drawn from the a
 
 ### Project Approach
 
-D**ata Collection and Integration**
+**Data Collection and Integration**
 
 Gather data from various sources (product, customer, and orders databases) and integrate it into a coherent dataset.
 
