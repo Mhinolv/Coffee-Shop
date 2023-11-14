@@ -11,34 +11,27 @@ Develop a Tableau Dashboard: To make the insights accessible and actionable, we'
 
 ### Tools and Technologies
 
-**Python** 
-
+**Python** <br>
 For data cleaning, transformation, and initial analysis. Python’s robust libraries (like pandas and NumPy) will enable efficient handling and manipulation of the data.
 
-**SQL** 
-
+**SQL** <br>
 To query and manipulate data stored in databases. We’ll use SQL for tasks similar to Python, showcasing how both tools can achieve similar outcomes with different approaches.
 
-**Excel**
-
+**Excel** <br>
  For additional data manipulation and as an intermediary tool for non-technical stakeholders who are more comfortable with Excel.
 
-**Tableau**
-
+**Tableau** <br>
 To create an interactive dashboard that visualizes the insights drawn from the analysis, making them easily understandable and actionable for the coffee shop management.
 
 ### Project Approach
 
-**Data Collection and Integration**
-
+**Data Collection and Integration** <br>
 Gather data from various sources (product, customer, and orders databases) and integrate it into a coherent dataset.
 
-**Data Cleaning and Transformation**
-
+**Data Cleaning and Transformation** <br>
 Using Python and SQL, we’ll clean the data (handling missing values, removing duplicates, standardizing formats) and transform it (aggregating, joining different tables) to prepare it for analysis.
 
-**Exploratory Data Analysis (EDA)**
-
+**Exploratory Data Analysis (EDA)** <br>
 Conduct an in-depth EDA to uncover trends and patterns. This step will involve statistical analysis and visualization techniques.
 
 ### KPI Identification
@@ -50,15 +43,13 @@ Dashboard Development: Using Tableau, we'll create a dynamic and interactive das
 
 We will compile our findings, methodologies, and insights into a comprehensive report and present it to the coffee shop stakeholders. The report will include recommendations for business strategies based on the data analysis.
 
-### Expected Outcomes**
+### Expected Outcomes
 
-**Enhanced Understanding of Business Trends**
-
+**Enhanced Understanding of Business Trends** <br>
 The coffee shop management will gain a clear view of their business performance over time.
 Data-Driven Decision Making: With access to real-time data and KPIs, the management can make informed decisions to improve sales, optimize product offerings, and enhance customer satisfaction.
 
-**Increased Operational Efficiency**
-
+**Increased Operational Efficiency** <br>
 Insights from the data may reveal opportunities for streamlining operations and reducing costs.
 Customer Engagement Strategies: Analysis of customer behavior and preferences will enable the coffee shop to tailor marketing and engagement strategies effectively.
 
